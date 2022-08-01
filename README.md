@@ -8,14 +8,14 @@ Features:
 
 🚀Start timer:
 
-          🔹On click of start button, start the timer
+          🔹On click of Start button, timer Start's.
           
-          🔹If timer is 0 start from beginning else start from wherever last stopped
+          🔹Start from 0 else start from wherever last stopped
 
 🚀Stop timer:
 
-          🔹Stop timer once clicked on the stop button
+          🔹Stop's once clicked on the Stop button
 
 🚀Reset button:
 
-          🔹On click of reset stop the watch (if already started) and set timer as 0
+          🔹On click of Reset button timer Stop's the watch and set timer as 0
